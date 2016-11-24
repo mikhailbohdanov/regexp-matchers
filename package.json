@@ -1,0 +1,24 @@
+{
+  "name": "regexp-util",
+  "version": "1.0.0",
+  "description": "RegExp utils for quick matching and other tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikhailbohdanov/regexp-matchers.git"
+  },
+  "keywords": [
+    "regexp",
+    "match",
+    "utils"
+  ],
+  "author": "Mikhail Bohdanov <mikhail.bohdanov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikhailbohdanov/regexp-matchers/issues"
+  },
+  "homepage": "https://github.com/mikhailbohdanov/regexp-matchers#readme"
+}
